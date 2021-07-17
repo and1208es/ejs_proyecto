@@ -1,0 +1,10 @@
+.footer_uno {
+    background:#0a0a0a;
+    padding: 30px 0;
+    color: #fff;
+    /* overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; */
+    margin: auto;
+}
